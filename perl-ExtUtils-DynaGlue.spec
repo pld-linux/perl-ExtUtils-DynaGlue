@@ -3,7 +3,7 @@ Summary:	ExtUtils-DynaGlue perl module
 Summary(pl):	Modu³ perla ExtUtils-DynaGlue
 Name:		perl-ExtUtils-DynaGlue
 Version:	1.00a
-Release:	4
+Release:	5
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
