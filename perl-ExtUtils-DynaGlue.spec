@@ -1,12 +1,11 @@
+%include	/usr/lib/rpm/macros.perl
 %define	pdir	ExtUtils
 %define	pnam	DynaGlue
-%include	/usr/lib/rpm/macros.perl
 Summary:	ExtUtils-DynaGlue perl module
 Summary(pl):	Modu³ perla ExtUtils-DynaGlue
 Name:		perl-ExtUtils-DynaGlue
 Version:	1.00a
-Release:	7
-
+Release:	8
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -23,7 +22,7 @@ ExtUtils-DynaGlue - Methods for generating Perl extension files.
 ExtUtils-DynaGlue - metody do generowania plików rozszerzeñ.
 
 %prep
-%setup -q -n ExtUtils-DynaGlue-%{version}
+%setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
 perl Makefile.PL
