@@ -3,7 +3,7 @@ Summary:	ExtUtils-DynaGlue perl module
 Summary(pl):	Modu³ perla ExtUtils-DynaGlue
 Name:		perl-ExtUtils-DynaGlue
 Version:	1.00a
-Release:	5
+Release:	6
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
@@ -12,6 +12,7 @@ Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/ExtUtils/ExtUtils-DynaGlu
 BuildRequires:	rpm-perlprov >= 3.0.3-16
 BuildRequires:	perl >= 5.6
 BuildRequires:	perl-C-Scan
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
