@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	ExtUtils
-%define	pnam	DynaGlue
+%define		pdir	ExtUtils
+%define		pnam	DynaGlue
 Summary:	ExtUtils::DynaGlue - methods for generating Perl extension files
 Summary(pl):	ExtUtils::DynaGlue - metody do generacji plików rozszerzeñ Perla
 Name:		perl-ExtUtils-DynaGlue
