@@ -6,7 +6,7 @@
 %define	pdir	ExtUtils
 %define	pnam	DynaGlue
 Summary:	ExtUtils::DynaGlue - methods for generating Perl extension files
-Summary(pl):	ExtUtils::DynaGlue - motody do heneracji plików rozszerzeñ Perla
+Summary(pl):	ExtUtils::DynaGlue - metody do generacji plików rozszerzeñ Perla
 Name:		perl-ExtUtils-DynaGlue
 Version:	1.00a
 Release:	10
