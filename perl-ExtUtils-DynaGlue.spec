@@ -5,7 +5,7 @@ Summary:	ExtUtils::DynaGlue perl module
 Summary(pl):	Modu³ perla ExtUtils::DynaGlue
 Name:		perl-ExtUtils-DynaGlue
 Version:	1.00a
-Release:	8
+Release:	9
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
