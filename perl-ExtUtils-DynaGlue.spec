@@ -9,7 +9,7 @@ Summary:	ExtUtils::DynaGlue - methods for generating Perl extension files
 Summary(pl):	ExtUtils::DynaGlue - motody do heneracji plików rozszerzeñ Perla
 Name:		perl-ExtUtils-DynaGlue
 Version:	1.00a
-Release:	9
+Release:	10
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
