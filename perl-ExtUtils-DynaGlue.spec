@@ -4,7 +4,6 @@
 
 %define		pdir	ExtUtils
 %define		pnam	DynaGlue
-%include	/usr/lib/rpm/macros.perl
 Summary:	ExtUtils::DynaGlue - methods for generating Perl extension files
 Summary(pl.UTF-8):	ExtUtils::DynaGlue - metody do generacji plików rozszerzeń Perla
 Name:		perl-ExtUtils-DynaGlue
